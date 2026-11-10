@@ -14,3 +14,19 @@
 
 Thanks for visiting my profile!
 
+
+## 🛠️ Languages & Tools
+
+- C
+- C++
+- Python
+- Git & GitHub
+- VS Code
+
+## 🎯 Currently Working On
+- Data Structures & Algorithms
+- Problem Solving
+- College Projects
+
+## 📫 Connect With Me
+- GitHub: [AyusiJaiswal](https://github.com/AyusiJaiswal)
