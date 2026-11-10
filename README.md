@@ -30,3 +30,19 @@ Thanks for visiting my profile!
 
 ## 📫 Connect With Me
 - GitHub: [AyusiJaiswal](https://github.com/AyusiJaiswal)
+
+
+## 📂 My Projects
+
+| Project | Technology |
+|---|---|
+
+
+## 🌱 My Goals
+- Improve my programming skills.
+- Build real-world projects.
+- Contribute to open-source projects.
+- Prepare for internships.
+
+---
+⭐ Thanks for visiting my profile!
